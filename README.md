@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Karnagelized">
-        <img width="600" src="https://github.com/Karnagelized/main/profile/Image/Logo.png">
+        <img width="600" src="https://github.com/Karnagelized/tree/main/Image/Logo.png">
     </a>
 </p>
 
@@ -51,12 +51,12 @@
 
 <div align="center">
     <a href="https://github.com/Karnagelized" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/.github/blob/main/profile/Image/Github_icon.png" width="7%" alt="" />
+        <img src="https://github.com/Karnagelized/tree/main/Image/Github_icon.png" width="7%" alt="" />
     </a>
     <a href="https://github.com/Karnagelized" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/.github/blob/main/profile/Image/Telegram_icon.png" width="7%" alt="" />
+        <img src="https://github.com/Karnagelized/tree/main/Image/Telegram_icon.png" width="7%" alt="" />
     </a>
     <a href="https://github.com/Karnagelized" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/.github/blob/main/profile/Image/VK_icon.png" width="7%" alt="" />
+        <img src="https://github.com/Karnagelized/tree/main/Image/VK_icon.png" width="7%" alt="" />
     </a>
 </div>
