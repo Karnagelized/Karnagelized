@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Karnagelized">
-        <img width="600" src="https://github.com/Karnagelized/Karnagelized/blob/main/Image/Logo.png">
+        <img width="600" src="https://github.com/Karnagelized/assets/blob/main/logo/Logo.pngg">
     </a>
 </p>
 
@@ -51,12 +51,12 @@
 
 <div align="center">
     <a href="https://github.com/Karnagelized" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/Karnagelized/blob/main/Image/Github_icon.png" width="7%" alt="" />
+        <img src="https://github.com/Karnagelized/assets/blob/main/social/Github_icon.png" width="7%" alt="" />
     </a>
     <a href="https://t.me/masikantonov" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/Karnagelized/blob/main/Image/Telegram_icon.png" width="7%" alt="" />
+        <img src="https://github.com/Karnagelized/assets/blob/main/social/Telegram_icon.png" width="7%" alt="" />
     </a>
     <a href="https://vk.com/masikantonov" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/Karnagelized/blob/main/Image/VK_icon.png" width="7%" alt="" />
+        <img src="https://github.com/Karnagelized/assets/blob/main/social/VK_icon.png" width="7%" alt="" />
     </a>
 </div>
