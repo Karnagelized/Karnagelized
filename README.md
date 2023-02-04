@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Karnagelized">
-        <img width="600" src="https://github.com/Karnagelized/Karnagelized/blob/main/Image/Logo1.png">
+        <img width="600" src="https://github.com/Karnagelized/Karnagelized/blob/main/Image/Logo.png">
     </a>
 </p>
 
