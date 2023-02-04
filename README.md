@@ -53,9 +53,11 @@
     <a href="https://github.com/Karnagelized" style="text-decoration:none;">
         <img src="https://github.com/Karnagelized/assets/blob/main/social/Github_icon.png" width="7%" alt="" />
     </a>
+    <img src="https://github.com/Karnagelized/assets/blob/main/social/logo-transparent.png" width="7%" alt="" />
     <a href="https://t.me/masikantonov" style="text-decoration:none;">
         <img src="https://github.com/Karnagelized/assets/blob/main/social/Telegram_icon.png" width="7%" alt="" />
     </a>
+    <img src="https://github.com/Karnagelized/assets/blob/main/social/logo-transparent.png" width="7%" alt="" />
     <a href="https://vk.com/masikantonov" style="text-decoration:none;">
         <img src="https://github.com/Karnagelized/assets/blob/main/social/VK_icon.png" width="7%" alt="" />
     </a>
