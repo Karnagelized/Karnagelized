@@ -33,7 +33,7 @@
 `Python`, познакомиться с базовыми принципами `ООП`, асинхронности (`asyncio`), 
 улучшить знания `SQL`.
 
-### [Text to speech](https://github.com/Karnagelized)
+### [Text to speech](https://github.com/Karnagelized/Text-to-speech)
 
 Приложение написанное при помощи фреймворка Tkinter.
 
