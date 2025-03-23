@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://github.com/Karnagelized">
-        <img width="600" src="https://github.com/Karnagelized/assets/blob/main/logo/Logo.png">
-    </a>
-</p>
-
 # 👨🏻‍🎓 Обо мне
 
 Привет ✋
