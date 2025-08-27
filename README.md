@@ -8,7 +8,7 @@
 
 ◻️ На данный момент `ищу работу` (Удаленно, парт-тайм | стажировка).
 
-#### 🌐 [PyTime.ru - Мой личный сайт на Django](https://www.pytime.ru/)
+#### 🌐 [PyTime.ru - Начало Backend разработчика на Python](https://www.pytime.ru/)
 
 
 ## 📚 Опыт работы
@@ -20,7 +20,7 @@
 * Тестирование: `pytest`, `UnitTest`
 * Базовые знания: `HTML5`, `CSS3`, `JS`, `C++`
 * Библиотеки: `asyncio`, `typing`, `pandas`, `numpy`, `bs4`, `VK Api`, `TG Api`
-* Инструменты: `Git`, `Celery`, `Bootstrap`, `Figma`
+* Инструменты: `Figma`, `Git`, `GitHub`, `GitLab`, `Celery`, `Bootstrap`
 
 #### Фриланс (Июль 2022 - Текущее время)
 * Программист - разработчик VK Бота в проекте Nine Hell Floors.
@@ -63,15 +63,13 @@
 
 ### 🔗 Ссылки
 <div align="center">
-    <a href="https://github.com/Karnagelized" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/assets/blob/main/social/Github_icon.png" width="7%" alt="" />
-    </a>
-    <img src="https://github.com/Karnagelized/assets/blob/main/social/logo-transparent.png" width="7%" alt="" />
     <a href="https://t.me/masikantonov" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/assets/blob/main/social/Telegram_icon.png" width="7%" alt="" />
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
-    <img src="https://github.com/Karnagelized/assets/blob/main/social/logo-transparent.png" width="7%" alt="" />
     <a href="https://vk.com/masikantonov" style="text-decoration:none;">
-        <img src="https://github.com/Karnagelized/assets/blob/main/social/VK_icon.png" width="7%" alt="" />
+        <img src="https://img.shields.io/badge/VKontakte-2CA5E0?style=for-the-badge&color=0077ff&logo=vk&logoColor=white"/>
+    </a>
+    <a href="https://pytime.ru" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/PyTime.ru-ffffff?style=for-the-badge&color=0077c2"/>
     </a>
 </div>
